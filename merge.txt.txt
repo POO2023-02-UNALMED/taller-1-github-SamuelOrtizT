@@ -1,2 +1,5 @@
+Como la carpeta archivos tiene un nuevo documento (respuesta.txt), ahora si se puede hacer un commit y un push
 Samuel Ortiz Toro
-19 años Aprender y ganar POO
+19 años 
+Aprender y ganar POO
+Si se modifican dos archivos a la vez, estos tendrán conflictos entre sí, por lo que habrá que solucionar los conflictos manualmente
